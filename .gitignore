@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.whl
+*.venv/
+venv/
+env/
+*.env
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+fib-ception-venv/
+
+# C++ compiled files
+generate_fib
+generate_fib.exe
+*.o
+*.obj
+*.out
+
+# Temporary files
+generate_fib.cpp
+fibonacci.py
+fib.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Logs and caches
+*.log
+*.log.*
+*.cache
+*.bak
+
+# Testing and coverage
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.tox/
+.nox/
+.pytest_cache/
